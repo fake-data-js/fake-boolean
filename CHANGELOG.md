@@ -1,5 +1,11 @@
 # FakeDataJS - Package Starter - Changelog
 
+## [1.1.0](https://github.com/fake-data-js/fake-boolean) (2022-01-18)
+
+### Features
+
+- add release GitHub Action
+
 ## [1.0.1](https://github.com/fake-data-js/fake-boolean) (2022-01-17)
 
 ### Features
